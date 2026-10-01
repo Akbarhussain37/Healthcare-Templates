@@ -94,19 +94,19 @@ export const blogPosts = {
     "body": "<p class=\"wp-block-paragraph\">Demo Eye Hospital features a dedicated team of ophthalmic surgeons with specialized fellowship training in retina, glaucoma, cataract, cornea, and refractive procedures.</p>\n<p>The hospital is recognized for integrating 3D heads-up visualization, femtosecond lasers, and computerized wavefront diagnostics that significantly improve procedural precision and patient recovery times.</p>\n<p>Our patient-centric care pathways provide tailored treatment plans for every stage of life, from premature infant eye screening to complex adult reconstructive procedures.</p>"
   },
   // Legacy aliases for backwards compatibility
-  "the-legacy-of-visakha-eye-hospital-excellence-since-1993": {
+  "the-legacy-of-demo-eye-hospital-excellence-since-1993": {
     "slug": "excellence-in-advanced-eye-care-our-founding-legacy",
     "title": "Excellence in Advanced Eye Care: Our Founding Legacy",
     "date": "October 30, 2025",
     "body": "<p class=\"wp-block-paragraph\">Demo Eye Hospital was established with a dedicated vision to deliver state-of-the-art ophthalmic care accessible to all patients.</p>"
   },
-  "community-care-programs-at-visakha-eye-hospital-trust": {
+  "community-care-programs-at-demo-eye-care-trust": {
     "slug": "community-care-programs-and-vision-outreach",
     "title": "Community Outreach & Vision Screening Initiatives",
     "date": "October 30, 2025",
     "body": "<p class=\"wp-block-paragraph\">Demo Eye Care Foundation Trust actively engages in community outreach through dedicated health initiatives.</p>"
   },
-  "advanced-eye-care-specializations-at-visakha-eye-hospital": {
+  "advanced-eye-care-specializations-at-demo-eye-hospital": {
     "slug": "advanced-subspecialty-care-in-modern-ophthalmology",
     "title": "Advanced Eye Care Specializations in Modern Ophthalmology",
     "date": "October 30, 2025",

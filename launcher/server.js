@@ -101,7 +101,7 @@ function getTemplateMetadata(templateName, templateDir) {
             category: 'Dental Care'
         },
         'HTE-2': {
-            title: 'Visakha Eye Hospital',
+            title: 'Demo Eye Hospital',
             subtitle: 'Tertiary Eye Care & Microsurgery',
             category: 'Eye Care'
         }
